@@ -1,0 +1,17 @@
+{
+  "src/schemas/intake-form.ts": {
+    "article": "validation-layer-divergence.md",
+    "hash": "a1b2c3d4",
+    "lines": 48
+  },
+  "src/schemas/intake-api.ts": {
+    "article": "validation-layer-divergence.md",
+    "hash": "e5f6a7b8",
+    "lines": 49
+  },
+  "src/db/migrations/001_patients.sql": {
+    "article": "validation-layer-divergence.md",
+    "hash": "c9d0e1f2",
+    "lines": 19
+  }
+}

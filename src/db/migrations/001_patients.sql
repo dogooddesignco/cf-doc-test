@@ -1,3 +1,4 @@
+-- CF-REF: validation-layer-divergence.md [19]
 CREATE TABLE patients (
   id            SERIAL PRIMARY KEY,
   first_name    VARCHAR(100) NOT NULL,

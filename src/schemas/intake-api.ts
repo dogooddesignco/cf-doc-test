@@ -1,5 +1,6 @@
 import { z } from 'zod';
 
+// CF-REF: validation-layer-divergence.md [49]
 export const patientIntakeApiSchema = z.object({
   firstName: z
     .string()
